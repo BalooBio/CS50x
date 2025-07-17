@@ -1,0 +1,50 @@
+.blue_header {
+    background-color: #477bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.light_green_band {
+    background-color: #90EE90;
+    padding: 20px;
+}
+
+.green_header2 {
+    background-color: #00A36C;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.dark_green_band {
+    background-color: #008000;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.about_accordion {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.even_spaced {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.hiking_image {
+    width="500"
+    height="600"
+}
+
+.dropdown {
+    padding: 20px;
+}
+
+form {
+    padding: 20px
+}
+
+

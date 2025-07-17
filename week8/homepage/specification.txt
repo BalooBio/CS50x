@@ -1,0 +1,23 @@
+10 HTML Tags:
+1. <div>
+2. <h1>
+3. <h2>
+4. <stong>
+5. <img>
+6. <button>
+7. <ul>
+8. <li>
+9. <h5>
+10. <a>
+
+Five CSS properties:
+1. background color: #477bff
+2. color: #fff
+3. padding: 20px
+4. text-align: center
+5. margin-top: 20px
+
+
+I used Javascript in balooca.html to alert with the text "hello, petname", where petname is the text submited by the user.
+
+I used Bootsrap components like accordion and dropdowns, to make the site more interactive.
