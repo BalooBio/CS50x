@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It sorted the best case lists (sorted) alot faster than the worst case lists (random and reversed)
+
+sort2 uses: Merge Sort
+
+How do you know?: It sorts worst case lists (random.txt) faster than sort1 and sort3.
+
+sort3 uses: selection sort
+
+How do you know?: It took aproximately the same amount of time to sort each type of list, and it tool longer than sort 1 and sort2 to sort the best-case lists (sorted.txt).
